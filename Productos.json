@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Dog Chow",
+        "tipo": "Cachorro",
+        "detalles": "Alimento para Cachorro de raza pequeña, mediana y grande. Sabores de Carne y Pollo. Tenemos bolsas desde 3kg hasta 18kg. Precio entre los $12.000 hasta $30.000"
+    },
+    {
+        "nombre": "Dog Chow",
+        "tipo": "Adulto",
+        "detalles": "Alimento para Adulto de raza pequeña, mediana y grande. Sabores de Carne y Pollo. Tenemos bolsas desde 3kg hasta 18kg. Precio entre los $12.000 hasta $30.000"
+    },
+    {
+        "nombre": "Master Dog",
+        "tipo": "Cachorro",
+        "detalles": "Alimento para Cachorro de raza pequeña, mediana y grande. Sabores de Carne y Pollo. Tenemos bolsas desde 3kg hasta 18kg. Precio desde $12.000 hasta $30.000"
+    },
+    {
+        "nombre": "Master Dog",
+        "tipo": "Adulto",
+        "detalles": "Alimento para Adulto de raza pequeña, mediana y grande. Sabores de Carne y Pollo. Tenemos bolsas desde 3kg hasta 18kg. Precio entre los $12.000 hasta $30.000"
+    },
+    {
+        "nombre": "Cat Chow",
+        "tipo": "Para Gatitos",
+        "detalles": "Alimento para Gatitos de hasta 12 meses de edad. Sabor Pollo. Tenemos bolsas desde 1kg hasta 8kg. Precio entre los $5.000 hasta $15.000"
+    },
+    {
+        "nombre": "Cat Chow",
+        "tipo": "Adulto",
+        "detalles": "Alimento para Gatos desde 1 año en adelante. Sabores Pollo y Pescado. Tenemos bolsas desde 1kg hasta 15kg. Precio entre los $7.500 hasta los $30.000"
+    },
+    {
+        "nombre": "Arena Sanitaria",
+        "tipo": "Higiene Gatos",
+        "detalles": "Arena Sanitaria para gatos. 20 Kilos. Con cristales Desodorantes calidad premiun. Precio: $15.000"
+    },
+    {
+        "nombre": "Spray Antiparasitario",
+        "tipo": "Para Gatos",
+        "detalles": "Spray Bravecto Antiparasitario 250ml. Check Gatos de 1,2 a 2,8KG. Ideal para limpiar todo tipo de parasitos. Precio: $20.000"
+    },
+    {
+        "nombre": "Spray Antiparasitario",
+        "tipo": "Para Perros",
+        "detalles": "Frontline Spray Antiparasitario para Perros 250 ML. Actuacion inmediata despues de 4 hrs tras su aplicación. Elimina pulgas, piojos y garrapatas. Precio: $20.000"
+    },
+    {
+        "nombre": "Correa Retractil",
+        "tipo": "Seguridad Perros",
+        "detalles": "Correa Retractil 5 metros. Facil Ajuste. Empuñadura otorga mayor comodidad. Precio: $5.000"
+    },
+    {
+        "nombre": "Jaula de Transporte",
+        "tipo": "Seguridad Mascotas",
+        "detalles": "Jaula de transporte para gatos/Perros. Tamaño 39x60x39 talla M. Material hecho de Metal y Plastico. Precio: $25.000"
+    },
+    {
+        "nombre": "Shampoo",
+        "tipo": "Higiene Mascotas",
+        "detalles": "Shampoo Hipoalergenico para Perros y Gatos. 1 Litro. Espuma Seca para baño en seco. Precio: $5.000"
+    },
+    {
+        "nombre": "Pelota de Futbol",
+        "tipo": "Juguete Perros",
+        "detalles": "Pelota de futbol suave para perros. Tamaño Pequeño. Apto para cachorros y adultos de raza pequeña, mediana, grande. Precio: $4.500"
+    },
+    {
+        "nombre": "Raton de Juguete PAWISE MEOW",
+        "tipo": "Juguete Gatos",
+        "detalles": "Raton de Juguete marca PAWISE MEOW MEOW. Colores atractivos para los gatos. Estimulan la actividad fisica y mental para los gatos. Precio: $2.700"
+    },
+    {
+        "nombre": "Bozal Para Perro",
+        "tipo": "Accesorio Perros",
+        "detalles": "Bozal marca Alpha Zeus. Ideal para controlar la mordida de tu perro. Para perros de raza grande como Doberman, Pastor Aleman, Boxer, ETC. Precio: $20.000"
+    },
+    {
+        "nombre": "Bolsa para Perro",
+        "tipo": "Accesorio para Perro",
+        "detalles": "Bolsa Versatil para el excremento de perro. Permite el uso de limpieza no solo para las cacas de perro, sino tambien otros residuos. Multiples colores para utilizarlos en dispensador. Precio: $2.000"
+    },
+    {
+        "nombre": "Plato Antideslizante",
+        "tipo": "Para mascotas",
+        "detalles": "Plato antideslizante para Perros y Gatos. Eficaz para mantener el plato en el lugar si necesidad de moverse. Varias formas y funcionalidades, como el Anti Ansiedad. Precio: $4.000"
+    },
+    {
+        "nombre": "Pala Sanitaria",
+        "tipo": "Accesorio Gatos",
+        "detalles": "Pala Sanitaria para Gatos. Para realizar tareas de mantenimiento y limpieza. Permite tamizar con facilidad y ayuda a conservar la silica y la arena limpia. Actualmente en stock. Precio: $0"
+    }
+]
